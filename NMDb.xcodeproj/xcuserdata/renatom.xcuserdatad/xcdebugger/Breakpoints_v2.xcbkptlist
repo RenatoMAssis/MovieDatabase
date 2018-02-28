@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NMDb/Source/ViewController/HomeCollectionViewController.swift"
+            timestampString = "541540503.3136261"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadMovies(refresh:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NMDb.HomeCollectionViewController.loadMovies(refresh: Swift.Bool) -&gt; ()"
+                  moduleName = "NMDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renatom/Documents/cit-projects/MovieDatabase/NMDb/Source/ViewController/HomeCollectionViewController.swift"
+                  timestampString = "541540503.4462529"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (() throws -&gt; Swift.Optional&lt;NMDb.MovieList&gt;) -&gt; () in NMDb.HomeCollectionViewController.loadMovies(refresh: Swift.Bool) -&gt; ()"
+                  moduleName = "NMDb"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/renatom/Documents/cit-projects/MovieDatabase/NMDb/Source/ViewController/HomeCollectionViewController.swift"
+                  timestampString = "541540503.4504451"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
